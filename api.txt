@@ -1,0 +1,12 @@
+Database name: sql6414064
+Bảng 1: tên tbled, có 2 cột
+  - ID (int): 1, 2, 3...
+  - state (string): ON, OFF, ERROR
+Bảng 2: tên tbhistory, có 4 cột
+  - mess_id (int): primary key
+  - time (string): 'yyyy/mm/dd hh:mm:ss'
+  - start (string): PC, Web, App
+  - end (string): 1, 2, 3... liên kết với ID ở bảng trên
+  - turn (string): ON, OFF
+
+Các action của api: GetAll, PutAll, PutID

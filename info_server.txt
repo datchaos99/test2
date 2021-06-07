@@ -1,0 +1,37 @@
+freemysql[
+Server: sql6.freemysqlhosting.net
+Name: sql6414064
+Username: sql6414064
+Password: TmP3kT8bbJ
+Port number: 3306
+no domain
+]
+
+infinityfree
+
+
+1. web chính
+- của infinityfree
+- đăng nhập: dat10hoa1@gmail.com-Nguyendat1
+	[
+	username: epiz_28643236
+	]
+- 2 trang là /led-data.php và history.php
+
+
+2. web api
+- của somee
+- đăng nhập: dat10hoa1@gmail.com-Nguyendat1
+user name: datnguyen
+thông tin ở trên trang web
+
+3. database
+- của freemysql
+[
+	Server: sql6.freemysqlhosting.net
+	db_Name: sql6414064
+	Username: sql6414064
+	Password: TmP3kT8bbJ
+	Port number: 3306
+	no domain
+]
